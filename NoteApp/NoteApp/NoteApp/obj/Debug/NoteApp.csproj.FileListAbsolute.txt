@@ -1,0 +1,13 @@
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\NoteApp\NoteApp\NoteApp\bin\Debug\NoteApp.exe.config
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\NoteApp\NoteApp\NoteApp\bin\Debug\NoteApp.exe
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\NoteApp\NoteApp\NoteApp\bin\Debug\NoteApp.pdb
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\NoteApp\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.AssemblyReference.cache
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\NoteApp\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\NoteApp\NoteApp\NoteApp\obj\Debug\NoteApp.NewNote.resources
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\NoteApp\NoteApp\NoteApp\obj\Debug\NoteApp.NoteApp.resources
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\NoteApp\NoteApp\NoteApp\obj\Debug\NoteApp.Properties.Resources.resources
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\NoteApp\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.GenerateResource.cache
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\NoteApp\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.CoreCompileInputs.cache
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\NoteApp\NoteApp\NoteApp\obj\Debug\NoteApp.exe
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\NoteApp\NoteApp\NoteApp\obj\Debug\NoteApp.pdb
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\NoteApp\NoteApp\NoteApp\obj\Debug\NoteApp.Note.resources
